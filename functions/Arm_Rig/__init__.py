@@ -1,0 +1,2 @@
+class ArmRigFunctions:
+    pass
