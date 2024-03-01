@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
+    <content url="file://C:/Program Files/Autodesk/Maya2023/devkit/other/Python27/pymel/extras/completion/py" />
     <content url="file://$MODULE_DIR$" />
     <content url="file://$MODULE_DIR$/../Qt.py-1.3.10" />
     <orderEntry type="jdk" jdkName="Python 3.9" jdkType="Python SDK" />
